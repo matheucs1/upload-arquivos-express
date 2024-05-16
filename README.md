@@ -2,4 +2,4 @@
 
 ## Express, multer
 
-Cria a pasta uploads na raiz do projeto
+Criar a pasta uploads na raiz do projeto
